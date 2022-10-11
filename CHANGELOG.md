@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.3.0](https://github.com/googleapis/google-cloudevents-go/compare/v0.2.3...v0.3.0) (2022-10-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* Clear json-schema based version of the Go library (#117)
+
+### Features
+
+* Tooling to generate types from protos ([#115](https://github.com/googleapis/google-cloudevents-go/issues/115)) ([82e971b](https://github.com/googleapis/google-cloudevents-go/commit/82e971b95f34e445d1eb51ff202be9441ec4c906))
+
+
+### Bug Fixes
+
+* **deps:** Update dependency node-fetch to v3.2.10 [security] ([#108](https://github.com/googleapis/google-cloudevents-go/issues/108)) ([f57a479](https://github.com/googleapis/google-cloudevents-go/commit/f57a4795f370e2f3c5ec75fb425bee8ed62639c3))
+* **generator:** Github action source-version syntax error ([#127](https://github.com/googleapis/google-cloudevents-go/issues/127)) ([3c2d689](https://github.com/googleapis/google-cloudevents-go/commit/3c2d6895c4043f1043ef4de191b354859858230a))
+
+
+### Code Refactoring
+
+* Clear json-schema based version of the Go library ([#117](https://github.com/googleapis/google-cloudevents-go/issues/117)) ([ee45e63](https://github.com/googleapis/google-cloudevents-go/commit/ee45e636b4393792ab0fbccb237c35081fc87e18))
+
 ## [0.2.3](https://github.com/googleapis/google-cloudevents-go/compare/v0.2.2...v0.2.3) (2022-07-14)
 
 
